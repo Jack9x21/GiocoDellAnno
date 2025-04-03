@@ -1,44 +1,47 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v5.0,Profile=windows": {}
+    "net5.0-windows7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v5.0,Profile=windows": []
+    "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\st11031\\.nuget\\packages\\": {},
+    "C:\\Users\\giaco\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\st11031\\OneDrive - IIS MARCONI PIERALISI - JESI\\Desktop\\progetto dell'anno\\GiocoDellAnno\\Giocodellanno\\Giocodellanno\\Giocodellanno.csproj",
+      "projectUniqueName": "C:\\Users\\giaco\\OneDrive\\Desktop\\Gioco dell Anno\\GiocoDellAnno\\Giocodellanno\\Giocodellanno\\Giocodellanno.csproj",
       "projectName": "Giocodellanno",
-      "projectPath": "C:\\Users\\st11031\\OneDrive - IIS MARCONI PIERALISI - JESI\\Desktop\\progetto dell'anno\\GiocoDellAnno\\Giocodellanno\\Giocodellanno\\Giocodellanno.csproj",
-      "packagesPath": "C:\\Users\\st11031\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\st11031\\OneDrive - IIS MARCONI PIERALISI - JESI\\Desktop\\progetto dell'anno\\GiocoDellAnno\\Giocodellanno\\Giocodellanno\\obj\\",
+      "projectPath": "C:\\Users\\giaco\\OneDrive\\Desktop\\Gioco dell Anno\\GiocoDellAnno\\Giocodellanno\\Giocodellanno\\Giocodellanno.csproj",
+      "packagesPath": "C:\\Users\\giaco\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\giaco\\OneDrive\\Desktop\\Gioco dell Anno\\GiocoDellAnno\\Giocodellanno\\Giocodellanno\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\st11031\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\giaco\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net50-windows"
+        "net5.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net50-windows": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
           "projectReferences": {}
         }
       },
@@ -46,10 +49,37 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
-      "net50-windows": {}
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+      }
     }
   }
 }

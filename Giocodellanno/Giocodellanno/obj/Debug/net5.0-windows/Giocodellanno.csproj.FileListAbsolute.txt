@@ -18,3 +18,49 @@ C:\Users\st10921\source\repos\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windo
 C:\Users\st10921\source\repos\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.pdb
 C:\Users\st10921\source\repos\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.genruntimeconfig.cache
 C:\Users\st10921\source\repos\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.Form2.resources
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\bin\Debug\net5.0-windows\Giocodellanno.exe
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\bin\Debug\net5.0-windows\Giocodellanno.deps.json
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\bin\Debug\net5.0-windows\Giocodellanno.runtimeconfig.json
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\bin\Debug\net5.0-windows\Giocodellanno.runtimeconfig.dev.json
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\bin\Debug\net5.0-windows\Giocodellanno.dll
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\bin\Debug\net5.0-windows\ref\Giocodellanno.dll
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\bin\Debug\net5.0-windows\Giocodellanno.pdb
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.csproj.AssemblyReference.cache
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.Form1.resources
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.Form2.resources
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.Properties.Resources.resources
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.csproj.GenerateResource.cache
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.AssemblyInfoInputs.cache
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.AssemblyInfo.cs
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.csproj.CoreCompileInputs.cache
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.dll
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\ref\Giocodellanno.dll
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.pdb
+C:\Users\st10802\Desktop\Giocodellanno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.genruntimeconfig.cache
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\bin\Debug\net5.0-windows\Giocodellanno.exe
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\bin\Debug\net5.0-windows\Giocodellanno.deps.json
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\bin\Debug\net5.0-windows\Giocodellanno.runtimeconfig.json
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\bin\Debug\net5.0-windows\Giocodellanno.runtimeconfig.dev.json
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\bin\Debug\net5.0-windows\Giocodellanno.dll
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\bin\Debug\net5.0-windows\Giocodellanno.pdb
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.csproj.AssemblyReference.cache
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.Form1.resources
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.Form2.resources
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.Properties.Resources.resources
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.csproj.GenerateResource.cache
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.AssemblyInfoInputs.cache
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.AssemblyInfo.cs
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.csproj.CoreCompileInputs.cache
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.sourcelink.json
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.dll
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\refint\Giocodellanno.dll
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.pdb
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.genruntimeconfig.cache
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\ref\Giocodellanno.dll
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.LoginForm.resources
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.bicipiti.resources
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.curlman.resources
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.curlbila.resources
+C:\Users\giaco\OneDrive\Desktop\Gioco dell Anno\GiocoDellAnno\Giocodellanno\Giocodellanno\obj\Debug\net5.0-windows\Giocodellanno.curlmart.resources

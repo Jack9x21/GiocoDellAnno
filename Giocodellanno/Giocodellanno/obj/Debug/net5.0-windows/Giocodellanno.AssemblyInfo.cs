@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Giocodellanno")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e084f55dc52bb420f28120cf601f90fc50499662")]
 [assembly: System.Reflection.AssemblyProductAttribute("Giocodellanno")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Giocodellanno")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

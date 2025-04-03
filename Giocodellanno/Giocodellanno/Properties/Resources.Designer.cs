@@ -19,7 +19,7 @@ namespace Giocodellanno.Properties {
     // tramite uno strumento quale ResGen o Visual Studio.
     // Per aggiungere o rimuovere un membro, modificare il file con estensione ResX ed eseguire nuovamente ResGen
     // con l'opzione /str oppure ricompilare il progetto VS.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -63,6 +63,16 @@ namespace Giocodellanno.Properties {
         /// <summary>
         ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1f4aa {
+            get {
+                object obj = ResourceManager.GetObject("1f4aa", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _360_F_31331324_bqXgqwmlnnXaOeXwFv8CrO6oMHpAKPum {
             get {
                 object obj = ResourceManager.GetObject("360_F_31331324_bqXgqwmlnnXaOeXwFv8CrO6oMHpAKPum", resourceCulture);
@@ -76,6 +86,36 @@ namespace Giocodellanno.Properties {
         internal static System.Drawing.Bitmap _360_F_31331324_bqXgqwmlnnXaOeXwFv8CrO6oMHpAKPum_removebg_preview {
             get {
                 object obj = ResourceManager.GetObject("360_F_31331324_bqXgqwmlnnXaOeXwFv8CrO6oMHpAKPum-removebg-preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap curl_con_bilanciere_a_presa_supina {
+            get {
+                object obj = ResourceManager.GetObject("curl-con-bilanciere-a-presa-supina", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap hammer_curl_orig {
+            get {
+                object obj = ResourceManager.GetObject("hammer-curl-orig", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap hammer_curl_orig__1_ {
+            get {
+                object obj = ResourceManager.GetObject("hammer-curl-orig-_1_", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -133,9 +173,49 @@ namespace Giocodellanno.Properties {
         /// <summary>
         ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_2025_03_15_093028 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot 2025-03-15 093028", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_2025_03_15_093036 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot 2025-03-15 093036", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_2025_03_15_093047 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot 2025-03-15 093047", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Screenshot_2025_03_15_093107 {
             get {
                 object obj = ResourceManager.GetObject("Screenshot 2025-03-15 093107", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_2025_03_15_093128 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot 2025-03-15 093128", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
