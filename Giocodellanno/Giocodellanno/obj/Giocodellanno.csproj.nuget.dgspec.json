@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\st10921\\source\\repos\\Giocodellanno\\Giocodellanno\\Giocodellanno.csproj": {}
+    "C:\\Users\\st10802\\Desktop\\Giocodellanno\\GiocoDellAnno\\Giocodellanno\\Giocodellanno\\Giocodellanno.csproj": {}
   },
   "projects": {
-    "C:\\Users\\st10921\\source\\repos\\Giocodellanno\\Giocodellanno\\Giocodellanno.csproj": {
+    "C:\\Users\\st10802\\Desktop\\Giocodellanno\\GiocoDellAnno\\Giocodellanno\\Giocodellanno\\Giocodellanno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\st10921\\source\\repos\\Giocodellanno\\Giocodellanno\\Giocodellanno.csproj",
+        "projectUniqueName": "C:\\Users\\st10802\\Desktop\\Giocodellanno\\GiocoDellAnno\\Giocodellanno\\Giocodellanno\\Giocodellanno.csproj",
         "projectName": "Giocodellanno",
-        "projectPath": "C:\\Users\\st10921\\source\\repos\\Giocodellanno\\Giocodellanno\\Giocodellanno.csproj",
-        "packagesPath": "C:\\Users\\st10921\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\st10921\\source\\repos\\Giocodellanno\\Giocodellanno\\obj\\",
+        "projectPath": "C:\\Users\\st10802\\Desktop\\Giocodellanno\\GiocoDellAnno\\Giocodellanno\\Giocodellanno\\Giocodellanno.csproj",
+        "packagesPath": "C:\\Users\\st10802\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\st10802\\Desktop\\Giocodellanno\\GiocoDellAnno\\Giocodellanno\\Giocodellanno\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\st10921\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\st10802\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -20,7 +20,9 @@ namespace Giocodellanno
 
         private void button1_Click_1(object sender, EventArgs e)
         {
+
             //commento ciocchi
+            //prova candi
             LoginForm loginForm = new LoginForm();
             loginForm.ShowDialog(); // Mostra il form di login in modalità modale
         }
